@@ -1,14 +1,6 @@
 # Magento payment Visa / MasterCard, or LiqPay extension 
 The extension allows you to pay for products online using  Visa / MasterCard or LiqPay service.
-
-    
        
--------------------------------------------------------------------------------------------------------------------------------
-#### This is fork of original LiqPay extension whose support for magento 1 was terminated
--------------------------------------------------------------------------------------------------------------------------------
-   
-      
-
 ### API
 * LiqPay API Click&Buy 1.2 (https://www.liqpay.com/ru/doc)
 
@@ -27,3 +19,8 @@ The following version have passed all tests:
 * Create `LiqPay` merchant
 * Add `LiqPay` merchant credentials into admin panel
 * Enable `LiqPay` payment method into admin panel
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+#### This is fork of original LiqPay extension whose support for magento 1 was terminated
+------------------------------------------------------------------------------------------------------------------------------- 
