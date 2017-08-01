@@ -22,5 +22,5 @@ The following version have passed all tests:
 
 
 -------------------------------------------------------------------------------------------------------------------------------
-#### This is fork of original LiqPay extension whose support for magento 1 was terminated
+#### This is fork of original LiqPay extension witch support for magento 1 was terminated
 ------------------------------------------------------------------------------------------------------------------------------- 
