@@ -16,7 +16,7 @@ The following version have passed all tests:
 * CE 1.9.x
 
 ### How to use
-* Create `LiqPay` merchant
+* Create `LiqPay` merchant (https://www.liqpay.ua/ru/registration)
 * Add `LiqPay` merchant credentials into admin panel
 * Enable `LiqPay` payment method into admin panel
 
